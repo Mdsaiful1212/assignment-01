@@ -35,3 +35,30 @@ header{
     font-weight: 600;
     
 }
+.my-failures-container{
+    display: flex;
+}
+.failures-title{
+ font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+margin-top: 300px;
+}
+
+.image-01{
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 500px;
+}
+.failures-content{
+    margin-left: 100px;
+    
+}
+.failures-description{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.my-failures-container p{
+    color: #444343;
+}
