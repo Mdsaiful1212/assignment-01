@@ -80,3 +80,37 @@ margin-top: 300px;
    font-weight: 700;
    font-size: 35px;
 }
+.watch-container{
+    width: 80%;
+    height: 250px;
+    background-image: url('new-year-new-me-main/images/watch.png');
+    border-radius: 10px;
+    margin-left: 140px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.watch-content{
+    background: linear-gradient(yellow 0%, red 25%, black 50%);
+    width: 60%;
+    height: 250px;
+    opacity: .4; 
+}
+.watch-title{
+    color: white;
+    font-size: 35px;
+    font-weight: 700;
+    opacity: 100%;
+   padding-left: 30px;;
+   padding-top: 70px;
+   
+}
+.btn-secondary{
+    color: rgb(235, 64, 64);
+    padding: 10px;
+    background: #eee9e9;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 30px;
+    margin-top: 30px;
+}
