@@ -68,6 +68,9 @@ margin-top: 300px;
     margin-top: 200px;
     width: 80%;
 }
+.fa-solid{
+    color: aquamarine;
+}
 .my-plan-content{
     display: flex;
     justify-content: space-around;
